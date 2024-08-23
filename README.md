@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
     </div>
 </div>
-<div style="text-align: left;"> 
+<!-- <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Stats </h2> 
   <div style="text-align: left;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jiminseon&bg_color=180,ffffff,00000000&title_color=e43f81&text_color=e43f81"
@@ -39,4 +39,4 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunkist73)](https://solved.ac/sunkist73/)
     
-</div>
+</div> -->
