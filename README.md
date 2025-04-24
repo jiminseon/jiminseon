@@ -15,20 +15,19 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔨 Tools</h2> 
-      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-    </div>
-</div>
-<!-- <div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Stats </h2> 
+  </div>
   <div style="text-align: left;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jiminseon&bg_color=180,ffffff,00000000&title_color=e43f81&text_color=e43f81"
-     /> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Stats </h2> 
+    <div style="text-align: left;"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=jiminseon&bg_color=180,ffffff,00000000&title_color=e43f81&text_color=e43f81"/> 
+  </div>
 </div>
 
 
