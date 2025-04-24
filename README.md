@@ -13,8 +13,7 @@
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-  </div>
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔨 Tools</h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔨 Tools</h2> 
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>
@@ -27,6 +26,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Stats </h2> 
     <div style="text-align: left;"> 
       <img src="https://github-readme-stats.vercel.app/api?username=jiminseon&bg_color=180,ffffff,00000000&title_color=e43f81&text_color=e43f81"/> 
+    </div>
   </div>
 </div>
 
