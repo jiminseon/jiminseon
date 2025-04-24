@@ -5,11 +5,11 @@
     
 
 ##### 🏆 Project  
-| PERIOD | TITLE | ROLE | SUBJECT |
-| ------- | ------- | -------| -------|
-| 2023.07 - 08 | MyADD | 백엔드 | [OTT 시청물 기록 IOS 서비스](https://github.com/my-ADD/myADD-server) |
-| 2024.04 - 06 | 잇템리어 | 프론트엔드, 백엔드 | [인테리어 중고거래 웹 서비스](https://github.com/jiminseon/Itemrier_springBoot) | 
-| 2024.09 - 12 | EmoDiary | 팀장 | [생성형 AI 기반 플레이리스트 및 일기 회고 추천 시스템](https://github.com/jiminseon/AI_RecommenderSystem) |
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | -------|
+| 2023.07 - 08 | MyADD | [OTT 시청물 기록 IOS 서비스](https://github.com/my-ADD/myADD-server) |
+| 2024.04 - 06 | 잇템리어 |  [인테리어 중고거래 웹 서비스](https://github.com/jiminseon/Itemrier_springBoot) | 
+| 2024.09 - 12 | EmoDiary | [생성형 AI 기반 플레이리스트 및 일기 회고 추천 시스템](https://github.com/jiminseon/AI_RecommenderSystem) |
 
 ##### 💻 Stats
 <div style="text-align: left;"> 
