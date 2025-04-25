@@ -1,17 +1,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=B9E0FD&height=90&text=hi!%20i'm%20minseon&fontSize=35&fontAlign=16">
 
+> 남녀노소 누구나 편하게 사용할 수 있는 개발자가 되고 싶습니다.
+
 <br/>
 
-**남녀노소 누구나 편하게 사용할 수 있는 개발자가 되고 싶습니다.**
-
-##### 🚀 About 
+### 🚀 About 
 - 팔로워쉽에 자신있어요
 - 한 번 시작하면 끝까지 해내요
 
 <br/>
 
-##### 🏆 Project  
+### 🏆 Project  
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
 | 2022.09 - 12 | EcoLog | [환경절약 웹 서비스](https://github.com/jiminseon/ecoLog) |
@@ -21,7 +21,7 @@
 
 <br/>
 
-##### 🛠️ Skills
+### 🛠️ Skills
 <div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
@@ -30,29 +30,30 @@
 
 <br/><br/>
 
-##### 🕺 Experiences
+### 🕺 Experiences
 - NPC 게임 개발 동아리 개발팀 4기 (2021.06~2022.01)
 - 교내 소프트웨어 경진대회 장려상(2022.11)
 - UMC 앱/웹 런칭 동아리 4기 SpringBoot 파트 (2023.03~2023.08)
 - UMC 앱/웹 런칭 동아리 5기 Web 파트장(2023.09~2024.02)
 - 교내 협동학습 경진대회 금상(2025.02)
-
+- 신한투자증권 프로 디지털 아카데미(2025.04~)
+  
 <br/>
 
-##### 🏆 Certification
+### 🏆 Certification
 - SQLD(2024.04)
 - 정보처리기사(2024.06)
 
 <br/>
 
-##### 💻 Stats
+### 💻 Stats
 <div style="text-align: left;"> 
       <img src="https://github-readme-stats.vercel.app/api?username=jiminseon&bg_color=180,ffffff,00000000&title_color=B9E0FD&text_color=B9E0FD"/> 
 </div>
 
 <br/>
 
-##### ✉️ Contact
+### ✉️ Contact
 
 - min7un3@gmail.com
 
