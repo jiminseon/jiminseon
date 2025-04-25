@@ -17,6 +17,7 @@
 | 2024.09 - 12 | EmoDiary | [생성형 AI 기반 플레이리스트 및 일기 회고 추천 시스템](https://github.com/jiminseon/AI_RecommenderSystem) |
 
 ##### 🛠️ Skills
+<div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
