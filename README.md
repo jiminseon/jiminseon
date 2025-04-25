@@ -2,7 +2,12 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> hi! i'm minseon </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
 </div>
-    
+
+남녀노소 누구나 편하게 사용할 수 있는 개발자가 되고 싶습니다.
+
+##### 🚀 About 
+- 팔로워십에 자신있어요 
+- 한 번 시작하면 끝까지 해내요
 
 ##### 🏆 Project  
 | PERIOD | TITLE | SUBJECT |
@@ -16,5 +21,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=jiminseon&bg_color=180,ffffff,00000000&title_color=e43f81&text_color=e43f81"/> 
 </div>
     
+##### Contact
 
+- min7un3@gmail.com
 
