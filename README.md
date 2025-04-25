@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=80ECFD&height=90&text=hi!i'mminseon&fontSize=35&fontAlign=16">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=80ECFD&height=90&text=hi!%20i'm%20minseon&fontSize=35&fontAlign=16">
 
 <br><br>
 
