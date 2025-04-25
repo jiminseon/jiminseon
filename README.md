@@ -1,6 +1,6 @@
-<div style="text-align: left;">
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=80ECFD&height=90&text=hi! i'm minseon&fontSize=35&fontAlign=16">
-</div>
+
 <br><br>
 
 남녀노소 누구나 편하게 사용할 수 있는 개발자가 되고 싶습니다.
