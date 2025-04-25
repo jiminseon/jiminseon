@@ -14,6 +14,7 @@
 ### 🏆 Project  
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
+| 2021.07 - 09 | 햄앤위치 | [소심한 햄스터 치치가 모험을 떠나는 플랫포머 퍼즐 RPG 게임](https://github.com/jiminseon/npc_hamAndWitch) |
 | 2022.09 - 12 | EcoLog | [환경절약 웹 서비스](https://github.com/jiminseon/ecoLog) |
 | 2023.07 - 08 | MyADD | [OTT 시청물 기록 IOS 서비스](https://github.com/my-ADD/myADD-server) |
 | 2024.04 - 06 | 잇템리어 |  [인테리어 중고거래 웹 서비스](https://github.com/jiminseon/Itemrier_springBoot) | 
