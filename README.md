@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=80ECFD&height=90&text=hi!%20i'm%20minseon&fontSize=35&fontAlign=16">
 
-<br><br>
+<br>
 
 남녀노소 누구나 편하게 사용할 수 있는 개발자가 되고 싶습니다.
 
