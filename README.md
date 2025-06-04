@@ -48,13 +48,11 @@
 <br/>
 
 ### 💻 Stats
-<div style="text-align: left;"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=jiminseon&bg_color=180,ffffff,00000000&title_color=B9E0FD&text_color=B9E0FD"/> 
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiminseon&bg_color=180,ffffff,00000000&title_color=4174D9&text_color=6699FF"/> 
+  <a href="https://solved.ac/profile/sunkist73" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunkist73" alt="Solved.ac 프로필"/>
+  </a>
+</p>
 
 <br/>
-
-### ✉️ Contact
-
-- min7un3@gmail.com
-
