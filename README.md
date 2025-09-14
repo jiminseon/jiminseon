@@ -10,6 +10,8 @@
 | 2023.07 - 08 | MyADD | [OTT 시청물 기록 IOS 서비스](https://github.com/my-ADD/myADD-server) |
 | 2024.04 - 06 | 잇템리어 |  [인테리어 중고거래 웹 서비스](https://github.com/jiminseon/Itemrier_springBoot) | 
 | 2024.09 - 12 | EmoDiary | [생성형 AI 기반 플레이리스트 및 일기 회고 추천 시스템](https://github.com/jiminseon/AI_RecommenderSystem) |
+| 2025.06 - 06 | 템보따리 | [그룹 내 추천 및 공동구매 웹 서비스](https://github.com/Tem-boddari/TemBoddari-Client) |
+| 2025.07 - 07 | Candly | [주식 차트 공부 및 예측 웹 서비스](https://github.com/InserToken/Candly-Client) |
 
 <br/>
 
