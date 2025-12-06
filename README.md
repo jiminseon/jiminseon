@@ -56,15 +56,3 @@
 ## 🏆 Certification
 - SQLD(2024.04)
 - 정보처리기사(2024.06)
-
-<br/>
-
-## 💻 Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiminseon&bg_color=180,ffffff,00000000&title_color=4174D9&text_color=6699FF"/> 
-  <a href="https://solved.ac/profile/sunkist73" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunkist73" alt="Solved.ac 프로필"/>
-  </a>
-</p>
-
-<br/>
